@@ -9,4 +9,4 @@ The solution computes the 2D cross product of the vectors from the first point t
 **Time:** O(1)  
 **Space:** O(1)
 
-`Task3_ValidBoomerang.cpp` uses the `Solution` class expected by LeetCode's C++ editor.
+`Task3_ValidBoomerang.java` uses the `Solution` class expected by LeetCode's Java editor.
